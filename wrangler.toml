@@ -32,7 +32,7 @@ compatibility_flags = ["nodejs_compat"]
 # KV Namespace for relay pool persistence
 [[kv_namespaces]]
 binding = "RELAY_POOL"
-id = "hihihi"
+id = "90905beaa29145179ab18dda2e88d317"
 
 # 自定義域名 (可選)
 # [routes]
